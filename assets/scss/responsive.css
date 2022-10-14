@@ -1,0 +1,29 @@
+/**
+ * @Main responsive file for (Project Name)
+ * @project     - Project Name
+ * @created_at -
+ * @modified_by -
+ */
+@media (max-width: 992px) {
+  .section-padding {
+    padding: 75px 0; }
+
+  .section-header .title {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: calc(100% + 10px); }
+  .section-header .sub-title {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: calc(100% + 10px); }
+
+  .page-banner .page-breadcrumb {
+    --height: auto; }
+    .page-banner .page-breadcrumb .page-title {
+      font-size: 36px; }
+
+  .banner .banner-row .banner-intro .title {
+    font-size: 36px !important;
+    line-height: calc(100% + 10px); } }
+
+/*# sourceMappingURL=responsive.css.map */
